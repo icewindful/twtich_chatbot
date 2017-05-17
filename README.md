@@ -9,11 +9,11 @@ https://www.twitch.tv/settings/connections
 
 register a developer application button.
 
-1.Name : linkName
+(1)Name : linkName
 
-2.Redirect URI : http://localhost
+(2).Redirect URI : http://localhost
 
-3.Application Category : ChatBot
+(3)Application Category : ChatBot
 
 Register a developer application
 
