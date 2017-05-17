@@ -5,9 +5,9 @@ http://www.twitchapps.com/tmi/
 
 2.how to register a developer application set client_localhost
 
-#https://dev.twitch.tv/docs/v5/guides/using-the-twitch-api
-#Name : linkName
-#Redirect URI : http://localhost
-#Application Category : ChatBot
-#Register a developer application
-#you can get clientID
+https://dev.twitch.tv/docs/v5/guides/using-the-twitch-api
+Name : linkName
+Redirect URI : http://localhost
+Application Category : ChatBot
+Register a developer application
+you can get clientID
