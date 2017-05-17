@@ -7,6 +7,8 @@ http://www.twitchapps.com/tmi/
 
 https://www.twitch.tv/settings/connections
 
+register a developer application button.
+
 Name : linkName
 
 Redirect URI : http://localhost
